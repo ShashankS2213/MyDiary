@@ -77,7 +77,7 @@ class WelcomePage extends StatelessWidget {
                       child: Image.asset("assets/arrow.png"),
                     ),
                     Text(
-                      "This Way",
+                      "This Way hello",
                       style: GoogleFonts.raleway(
                           color: const Color(0xff464646),
                           fontSize: sheight * 2,
